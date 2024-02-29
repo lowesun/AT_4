@@ -1,5 +1,3 @@
-package org.max.home;
-
 import javax.persistence.*;
 import java.util.Objects;
 
